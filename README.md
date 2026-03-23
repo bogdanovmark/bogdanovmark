@@ -22,11 +22,10 @@ Passionate about clean code, automation, and learning new tech every day.
 
 ---
 
-## ⚡ Fun facts
-
-- 🐍 Python lover  
-- 🎮 Gaming helps me unwind  
-- 🎧 Music fuels my coding sessions
+## Current Status
+- High school student  
+- Learning Python and Object-Oriented Programming (OOP)  
+- Working on personal Python projects
 
 ---
 
