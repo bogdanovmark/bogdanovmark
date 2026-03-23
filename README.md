@@ -39,4 +39,4 @@ Passionate about clean code, automation, and learning new tech every day.
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-bogdanov-002951371/)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/markeongolia)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/bogdanovmark)
