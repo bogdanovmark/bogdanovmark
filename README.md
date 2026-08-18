@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ССЫЛКА_НА_ВАШУ_КАРТИНКУ" width="100%">
+  <img src="https://files.catbox.moe/otxcnq.png" width="100%">
 </p>
 
 # Mark Bogdanov
