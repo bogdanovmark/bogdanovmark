@@ -1,6 +1,6 @@
 # Hey there, I'm Mark Bogdanov 👋
 
-I'm a 17-year-old Python enthusiast diving deep into **OOP** and **ORM**.  
+I'm a 18-year-old Python enthusiast diving deep into **OOP** and **ORM**.  
 Passionate about clean code, automation, and learning new tech every day.
 
 ---
