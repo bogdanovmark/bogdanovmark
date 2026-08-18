@@ -2,7 +2,7 @@
 
 18-year-old python developer & backend enthusiast. diving deep into object-oriented programming, orm libraries, and automation. building clean, maintainable code and learning new tech every day.
 
-🌐 [t.me/bogdanovmark](https://t.me/bogdanovmark) • ✉️ mark.bogdanov.dev@email.com
+🌐 [t.me/bogdanovmark](https://t.me/bogdanovmark) • ✉️  bogdanovmark.work@gmail.com
 
 ---
 
