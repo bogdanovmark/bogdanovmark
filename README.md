@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/otxcnq.png" width="100%">
-</p>
-
 # Mark Bogdanov
 `bogdanovmark` | 18 y.o.
 Passionate about clean code, automation, and backend development.
