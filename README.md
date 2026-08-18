@@ -3,7 +3,7 @@
 </p>
 
 # Mark Bogdanov
-`bogdanovmark` | he/him | 18 y.o.
+`bogdanovmark` | 18 y.o.
 Passionate about clean code, automation, and backend development.
 
 ---
