@@ -1,41 +1,41 @@
-# Hey there, I'm Mark Bogdanov 👋
+<p align="center">
+  <img src="ССЫЛКА_НА_ВАШУ_КАРТИНКУ" width="100%">
+</p>
 
-I'm a 18-year-old Python enthusiast diving deep into **OOP** and **ORM**.  
-Passionate about clean code, automation, and learning new tech every day.
-
----
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-00599C?style=flat&logo=visual-studio-code&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-2F4F4F?style=flat&logo=sqlalchemy&logoColor=white)
+# Mark Bogdanov
+`bogdanovmark` | he/him | 18 y.o.
+Passionate about clean code, automation, and backend development.
 
 ---
 
-## 📚 What I'm learning
-
-- Object-Oriented Programming (OOP)  
-- Python ORM libraries (SQLAlchemy, Django ORM)  
-- Writing clean, maintainable code  
-- Basics of databases and data modeling
+### about
+18-year-old Python enthusiast. Focused on OOP, ORM, and high-performance automation. Based in Almaty, Kazakhstan.
 
 ---
 
-## Current Status
-- High school student  
-- Learning Python and Object-Oriented Programming (OOP)  
-- Working on personal Python projects
+### core skills
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlalchemy-2F4F4F?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+- **languages:** Python
+- **backend:** OOP, SQLAlchemy, Django ORM
+- **tools:** Git, Docker, Linux
 
 ---
 
-## 📈 GitHub Stats
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdanovmark&show_icons=true&theme=radical)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bogdanovmark&show_icons=true&theme=radical&hide_border=true" width="100%" />
+</p>
 
 ---
 
-## 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-bogdanov-002951371/)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/bogdanovmark)
+### 📫 How to reach me
+- **Telegram:** [t.me/bogdanovmark](https://t.me/bogdanovmark)
+- **LinkedIn:** [linkedin.com/in/mark-bogdanov-002951371/](https://www.linkedin.com/in/mark-bogdanov-002951371/)
